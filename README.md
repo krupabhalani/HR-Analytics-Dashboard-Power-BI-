@@ -1,4 +1,4 @@
-# Power BI Analytics Dashboards
+# Power-BI-Analytics-Dashboards
 
 (1) HR Analytics Dashboard (Power BI)
 
