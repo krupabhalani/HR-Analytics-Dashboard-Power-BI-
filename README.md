@@ -31,4 +31,4 @@ DAX Calculations: Implemented measures for total births, rank by popularity, and
 
 Insights & Impact: Discovered cyclical popularity patterns and regional naming trends that reveal cultural and social influences over time.
 
-Tools & Skills: Power BI, SQL, DAX, Power Query, Data Visualization, Data Modeling, Analytical Thinking.
+Tools & Skills: Power BI, SQL, DAX, Power Query, Data Visualization, Data Modeling, Analytical Thinking
